@@ -2,12 +2,14 @@
 Give access to the material used in an experiment that used the Cellulo robots to teach Symmetry
 
 ## Misconceptions
-**Misconception 1**
+![M1](doc/misconceptions.png)
 
-**Misconception 2**
+## Experiment Workflow
+![M1](doc/experiment_workflow_new.pdf.png)
+
+## Map and Interaction Design
+![M1](doc/map_interactiondesign.png)
 
 ## Learning activities
-**Activity 1**
+![Activity](doc/activities.png)
 
-![Activity1][fig1]
-[fig1]: doc/a1_control_p2.png "This is where the title goes" height=45px width=120px
